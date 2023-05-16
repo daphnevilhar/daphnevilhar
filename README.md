@@ -1,7 +1,7 @@
 ## Oi, eu sou a Daphne! 
 
-Estudante de desenvolvimento web - Front-end
-Aluna da 9ª turma da Laboratória
+- Estudante de desenvolvimento web - Front-end
+- Aluna da 9ª turma da Laboratória
 
 ## Tecnologias e ferramentas:
 
@@ -17,5 +17,10 @@ Aluna da 9ª turma da Laboratória
 </div>
 
 ## Entre em contato comigo:
+
+<div>
+  <a href="https://www.linkedin.com/in/daphnevilhar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="vilhardaphne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
 
