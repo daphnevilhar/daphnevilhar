@@ -1,6 +1,6 @@
 ## Oi, eu sou a Daphne! 
 
-- Estudante de desenvolvimento web - Front-end
+- Desenvolvimento web - Front-end
 - Aluna da 9ª turma da Laboratória
 
 ## Tecnologias e ferramentas:
